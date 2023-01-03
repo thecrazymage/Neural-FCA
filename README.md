@@ -1,7 +1,5 @@
 # Neural-FCA
 
-## Introduction
-
 This repository is the implementation of a big homework on the course "Ordered Sets in Data Analysis", taught at HSE University in the first semester of the master's program "Data Science" in the fall and winter of 2022.
 
 Course repository on GitHub: [link](https://github.com/EgorDudyrev/OSDA_course).
